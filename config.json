@@ -1,47 +1,7 @@
 {
     "newsAppList":[
 		{
-            "name":"中青看点",
-            "version":1
-        },
-        {
-            "name":"东方头条",
-            "version":1
-        },
-		{
-            "name":"淘最热点",
-            "version":1
-        },
-		{
-            "name":"红包视频",
-            "version":1
-        },
-		{
-            "name":"趣头条",
-            "version":1
-        },
-		{
-            "name":"红包头条",
-            "version":1
-        },
-		{
             "name":"橙子快报",
-            "version":1
-        },
-		{
-            "name":"快看点",
-            "version":1
-        },
-		{
-            "name":"引力资讯",
-            "version":1
-        },
-		{
-            "name":"天天趣闻",
-            "version":1
-        },
-		{
-            "name":"阅有钱",
             "version":1
         },
 		{
@@ -49,39 +9,7 @@
             "version":1
         },
 		{
-            "name":"抖音极速版",
-            "version":1
-        },
-		{
-            "name":"趣看点",
-            "version":1
-        },
-		{
-            "name":"趣海鲜小视频",
-            "version":1
-        },
-		{
-            "name":"趣头条小视频版",
-            "version":1
-        },
-		{
             "name":"想看",
-            "version":1
-        },
-		{
-            "name":"有料看看",
-            "version":1
-        },
-		{
-            "name":"精彩头条",
-            "version":1
-        },
-		{
-            "name":"趣闻看看",
-            "version":1
-        },
-		{
-            "name":"赚钱阅有钱",
             "version":1
         },
 		{
@@ -89,15 +17,7 @@
             "version":1
         },
 		{
-            "name":"搜狐资讯",
-            "version":1
-        },
-		{
-            "name":"淘头条",
-            "version":1
-        },
-		{
-            "name":"今日视点",
+            "name":"天天趣闻",
             "version":1
         },
 		{
@@ -105,31 +25,7 @@
             "version":1
         },
 		{
-            "name":"趣故事",
-            "version":1
-        },
-		{
             "name":"淘新闻",
-            "version":1
-        },
-		{
-            "name":"刷宝",
-            "version":1
-        },
-		{
-            "name":"刷宝短视频",
-            "version":1
-        },
-		{
-            "name":"种子视频",
-            "version":1
-        },
-		{
-            "name":"大众看点",
-            "version":1
-        },
-		{
-            "name":"每日一看",
             "version":1
         },
 		{
@@ -138,14 +34,6 @@
         },
 		{
             "name":"微鲤",
-            "version":1
-        },
-		{
-            "name":"牛牛头条",
-            "version":1
-        },
-		{
-            "name":"薪头条",
             "version":1
         },
 		{
