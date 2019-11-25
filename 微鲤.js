@@ -8,7 +8,7 @@ while(true){
 		sleep(300);
 		//click(w*0.3,h*0.9);
 		//sleep(1000);
-		click(w*0.34,h*0.9);
+		click(w*0.2,h*0.9);
 		sleep(random(3000,5000))
 		click(w*0.5,h*0.25);
 		for(var j=0;j<12;j++){
@@ -45,7 +45,7 @@ function Signin(){
 	sleep(1000);
 	back();
 	sleep(2000);
-	click(w*0.34,h*0.9);
+	click(w*0.2,h*0.9);
 	sleep(2000);
 	click("热点");
 	//click(w*0.2,h*0.9);
